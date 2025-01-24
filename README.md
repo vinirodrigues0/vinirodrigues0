@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋  
+
+- 🎓 Computer Science major at Northwest Missouri State University  
+- 🔭 Currently working on Android apps using Java in Android Studio  
+- 📚 Taking courses on Web Mining and Web Applications  
+- 💻 Programming in Python, Java, C, and Swift  
+- 🚀 Interested in software development, databases, and data science  
+- 🎾 College tennis player at Northwest  
+
+Thanks for visiting my profile!  
 
 <!--
 **vinirodrigues0/vinirodrigues0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
